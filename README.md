@@ -96,25 +96,25 @@
 
 * Фотографии после преобразования
 
-<figure><img src=".gitbook/assets/7.jpg" alt=""><figcaption><p>Фото №1 изменение тумбочек и добавление кресла перед кроватью</p></figcaption></figure>
+<figure><img src=".gitbook/assets/1.png" alt=""><figcaption><p>Фото №1 изменение интерьера с сохранением расположения мебели/p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/9.jpg" alt=""><figcaption><p>Фото №1 греческий стиль</p></figcaption></figure>
+<figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Фото №1 добавление цветов на столе</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/11.jpg" alt=""><figcaption><p>Фото №2 изменение вида из окна</p></figcaption></figure>
+<figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption><p>Фото №2 греческий стильл</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/15.jpg" alt=""><figcaption><p>Фото №2 изменение обоев и вида из окна</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4.jpg" alt=""><figcaption><p>Фото №2 убраны шторы, заменены тумбочки, добавлен диванчик перед кроватью</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/16.png" alt=""><figcaption><p>Фото №3 изменение фона из окна и стены шкафа</p></figcaption></figure>
+<figure><img src=".gitbook/assets/5.png" alt=""><figcaption><p>Фото №3 столовая переделана в офисную комнату с инопланетными растениями</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/17.png" alt=""><figcaption><p>Фото №3 Чайный столик вмето телевизора</p></figcaption></figure>
+<figure><img src=".gitbook/assets/6.png" alt=""><figcaption><p>Фото №3 новые окна</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/1.jpg" alt=""><figcaption><p>Фото №4 Добавлено кресло и изменены обои</p></figcaption></figure>
+<figure><img src=".gitbook/assets/7.jpg" alt=""><figcaption><p>Фото №4 убран телевизор</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/5.jpg" alt=""><figcaption><p>Фото №4 Изменен вид из окна и ковер</p></figcaption></figure>
+<figure><img src=".gitbook/assets/8.jpg" alt=""><figcaption><p>Фото №4 изменен вид из окна и ковер</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/24.jpg" alt=""><figcaption><p>Фото №5 Портал вместо окна, столовая переделана в офисную комнату</p></figcaption></figure>
+<figure><img src=".gitbook/assets/9.jpg" alt=""><figcaption><p>Фото №5 добавлены новые стулья</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/23.jpg" alt=""><figcaption><p>Фото №5 Столовая переделана в офисную комнату с инопланетными растениями</p></figcaption></figure>
+<figure><img src=".gitbook/assets/10.jpg" alt=""><figcaption><p>Фото №5 изменена картина</p></figcaption></figure>
 
 *   Изменение только части изображения:
 
