@@ -100,21 +100,21 @@
 
 <figure><img src=".gitbook/assets/2.png" alt=""><figcaption><p>Фото №1 добавление цветов на столе</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/3.jpg" alt=""><figcaption><p>Фото №2 греческий стильл</p></figcaption></figure>
+<figure><img src=".gitbook/assets/3.png" alt=""><figcaption><p>Фото №2 греческий стильл</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/4.jpg" alt=""><figcaption><p>Фото №2 убраны шторы, заменены тумбочки, добавлен диванчик перед кроватью</p></figcaption></figure>
+<figure><img src=".gitbook/assets/4.png" alt=""><figcaption><p>Фото №2 убраны шторы, заменены тумбочки, добавлен диванчик перед кроватью</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/5.png" alt=""><figcaption><p>Фото №3 столовая переделана в офисную комнату с инопланетными растениями</p></figcaption></figure>
 
 <figure><img src=".gitbook/assets/6.png" alt=""><figcaption><p>Фото №3 новые окна</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/7.jpg" alt=""><figcaption><p>Фото №4 убран телевизор</p></figcaption></figure>
+<figure><img src=".gitbook/assets/7.png" alt=""><figcaption><p>Фото №4 убран телевизор</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/8.jpg" alt=""><figcaption><p>Фото №4 изменен вид из окна и ковер</p></figcaption></figure>
+<figure><img src=".gitbook/assets/8.png" alt=""><figcaption><p>Фото №4 изменен вид из окна и ковер</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/9.jpg" alt=""><figcaption><p>Фото №5 добавлены новые стулья</p></figcaption></figure>
+<figure><img src=".gitbook/assets/9.png" alt=""><figcaption><p>Фото №5 добавлены новые стулья</p></figcaption></figure>
 
-<figure><img src=".gitbook/assets/10.jpg" alt=""><figcaption><p>Фото №5 изменена картина</p></figcaption></figure>
+<figure><img src=".gitbook/assets/10.png" alt=""><figcaption><p>Фото №5 изменена картина</p></figcaption></figure>
 
 *   Изменение только части изображения:
 
